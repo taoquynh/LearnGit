@@ -1,0 +1,1 @@
+- Lenh nano <ten_file> de chinh sua file, neu file chua co, thi tao file.
